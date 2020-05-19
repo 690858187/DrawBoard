@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DrawBoard_Tests' do
+  pod 'DrawBoard', :path => '../'
+  
+  
+end
