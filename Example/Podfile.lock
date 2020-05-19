@@ -1,0 +1,16 @@
+PODS:
+  - DrawBoard (0.1.0)
+
+DEPENDENCIES:
+  - DrawBoard (from `../`)
+
+EXTERNAL SOURCES:
+  DrawBoard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DrawBoard: d020598b2ec7bd07beaab57e2dc43cdebbdc0218
+
+PODFILE CHECKSUM: 9ef0653941a1854d1d2974afc44738c89aa833c2
+
+COCOAPODS: 1.9.1

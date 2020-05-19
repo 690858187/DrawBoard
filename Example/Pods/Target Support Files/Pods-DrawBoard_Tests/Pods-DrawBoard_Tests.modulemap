@@ -1,0 +1,6 @@
+framework module Pods_DrawBoard_Tests {
+  umbrella header "Pods-DrawBoard_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
